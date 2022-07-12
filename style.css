@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(136, 140, 253);
+}
+
+.logo
+{
+    color: rgb(123, 227, 44);
+    width: 160px;
+    height: 60px;
+    margin-left: 45%;
+}
+
+#intro
+{
+    color:rgb(13, 13, 243)
+}
+
+.imgselection
+{
+    width: 297px;
+    height: 480px; 
+}
